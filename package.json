@@ -46,7 +46,7 @@
     "@heroicons/react": "^1.0.6",
     "autoprefixer": "^10.4.2",
     "next-compose-plugins": "^2.2.1",
-    "postcss": "^8.4.5",
+    "postcss": "^8.4.31",
     "tailwindcss": "^3.0.16"
   },
   "prettier": {
